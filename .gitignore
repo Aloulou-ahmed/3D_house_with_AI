@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+frontend-react/node_modules/
+frontend-react/dist/
+frontend-react/.vite/
+
+.vscode/
+.idea/
+*.log
